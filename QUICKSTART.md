@@ -2,7 +2,7 @@
 
 ## What You Got
 
-A fully-functional AI sales research agent that:
+A fully functional AI sales research agent that:
 - Searches the web for company info
 - Identifies pain points using AI
 - Generates personalized email hooks
