@@ -17,7 +17,7 @@ Traditional sales research takes **20+ minutes per prospect**. This AI agent doe
 **Company:** Notion
 
 **Generated Hook:**
-> "I read about your February launch of Notion Mail and the new AI-powered 'search across platforms' capability. Pushing out so many distinct AI features so rapidly often creates a new wave of internal manual tasks and operational bottlenecks for teams trying to keep up. We've helped similar fast-growing companies automate away much of that internal chaos – happy to briefly outline a workflow that might resonate if you're feeling the same pressure."
+> "I read about your February launch of Notion Mail and the new AI powered 'search across platforms' capability. Pushing out so many distinct AI features so rapidly often creates a new wave of internal manual tasks and operational bottlenecks for teams trying to keep up. We've helped similar fast growing companies automate away much of that internal chaos, happy to briefly outline a workflow that might resonate if you're feeling the same pressure."
 
 **No generic BS.** Every hook references specific, recent company news.
 
