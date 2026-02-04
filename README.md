@@ -191,7 +191,7 @@ If this saves you time or helps you close deals, consider:
 
 **IntellColabs** - [intellcolabs.com](https://intellcolabs.com)
 
-**Questions?** Open an issue or reach out on LinkedIn.
+**Questions?** Open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/sarimahmedkhan/).
 
 ---
 
