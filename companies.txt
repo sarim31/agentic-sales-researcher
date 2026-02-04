@@ -1,0 +1,10 @@
+Stripe
+Notion
+Salesforce
+HubSpot
+Zoom
+Slack
+Figma
+Airtable
+Monday.com
+Asana
