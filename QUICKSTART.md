@@ -112,14 +112,6 @@ Research 10 companies at once:
 
 ## Your APIs (Configured ✅)
 
-- **Tavily**: `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`
-  - Free tier: 1,000 searches/month
-  
-- **Google Gemini**: `AIzaSyAX2QxQDPT1VmdA5z-UT7rOZp8nqqbsq60`
-  - Free tier: 1,500 requests/day
-
-Keep these secret! They're in your `.env` file.
-
 ---
 
 ## Next Steps
